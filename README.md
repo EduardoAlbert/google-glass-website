@@ -1,2 +1,2 @@
 # project-glass
-[building] Website to practice Javascript, HTML5 and CSS3 
+[building] Simple Website to practice JavaScript, HTML5, CSS3, git versioning and Github.

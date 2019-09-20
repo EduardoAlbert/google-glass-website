@@ -1,13 +1,31 @@
 @charset "UTF-8";
 
 body {
-  background-color: white;
+  background-color: #dddddd;
   color: rgb(0, 0, 0, 1);
+}
+
+div#interface {
+  width: 900px;
+  background-color: #ffffff;
+  margin: -20px auto 10px auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  padding: 10px;
 }
 
 p {
   text-align: justify;
-  text-indent: 50px
+  text-indent: 50px;
+}
+
+header#cabecalho img#icone {
+  position: absolute;
+  left: 780px;
+  top: 40px;
+}
+
+header#cabecalho {
+  
 }
 
 /* Formatação de imagens com legendas */
@@ -43,7 +61,7 @@ figure.foto-legenda:hover figcaption{
 /* Formatação do Menu */
 
 nav#menu {
-  display: block
+  display: block;
 }
 
 nav#menu ul{

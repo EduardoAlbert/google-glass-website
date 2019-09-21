@@ -126,8 +126,21 @@ section#corpo {
   display: block;
   width: 520px;
   float: left;
-  border-right: 1px solid;
+  border-right: 1px solid #606060;
   padding-right: 15px
+}
+
+table#tabelaspec {
+  border: 1px solid #606060;
+  border-spacing: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+table#tabelaspec td {
+  border: 1px solid;
+  padding: 10px;
+  text-align: center
 }
 
 aside#lateral {

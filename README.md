@@ -25,7 +25,6 @@ Made to practice JavaScript, HTML5, CSS3, Git Versioning and GitHub.
 - [X] Integrate JavaScript and HTML5
 - [X] HTML5 IFRAME
 - [X] Image Maps
-- [X] HTML5 Images
 - [X] HTML5 Audio and Video
 - [X] HTML5 Forms
 - [X] JavaScript Forms
